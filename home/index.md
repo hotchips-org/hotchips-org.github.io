@@ -2,12 +2,11 @@
 author: kevbroch
 comments: false
 date: 2012-05-29 18:26:28+00:00
-excerpt: "\n\t\t\t\t\t\t"
 layout: page
 link: http://www.hotchips.org/home/
 published: false
 slug: home
-title: "\n\t\t\t\tHome\t\t"
+title: Home
 wordpress_id: 385
 ---
 
