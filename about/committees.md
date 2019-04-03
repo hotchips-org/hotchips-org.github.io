@@ -21,6 +21,7 @@ wordpress_id: 3997
 |                | Publications      | Stefan Rusu              | TSMC                      |
 |                | Registration      | Charles Neuhauser        | Neuhauser Associates, Inc |
 |                | Sponsorship       | Amr Zaky                 | Invensense                |
+|                |                   | Michael Leung            |                           |
 |                | Volunteers        | Gabriel Southern         | Intel                     |
 |                | Marketing         | Gary Brown               | Movidius                  |
 |                | Press             | Ralph Wittig             | Xilinx                    |
